@@ -1,0 +1,29 @@
+Git = global information tracker
+
+git enables =
+- history tracking
+- collaboration
+- code backup
+- feature development => add new feature without impact main project
+- code review
+
+git - CLI - command line interface
+
+git init = to initilzed git 
+
+touch filename.txt = it will create a new empty file named "filename.txt"
+
+nano = to edit txt file data  = save = ctrl+s , close = ctrl+x
+
+cat filename = to read txt file , close = ctrl+c
+
+git add "filename.xyz" = add file to stageing
+
+git status = green = file in green - staging , red = file in red - untracked
+
+git config --global user.name "_name_" = to add user name in globalaly in
+
+git config --global user.email "_email_" = to add user email in globalaly in git
+
+git commit -m = "this is my first commit" = to commit file with message
+
